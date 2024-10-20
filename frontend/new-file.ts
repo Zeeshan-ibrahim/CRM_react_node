@@ -1,1 +1,3 @@
-export const newname = {}
+export const newName = {
+    bondo_singh : "Addan"
+}
